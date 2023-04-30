@@ -11,7 +11,7 @@ body * {
     font-family: 'Cabin', sans-serif;
 }
 
-.cuerpoPagina{
+.body-page{
 
     margin: auto;
     
@@ -22,8 +22,132 @@ nav{
     background-color: transparent !important;
 }
 
-.img-logo{
+.logoViajes{
 
     width: 40px;
 }
+
+.logoTitle {
+    width: 200px;
+    font-size: 20px;
+}
+
+
+.hero-section{
+
+    z-index: 10;
+
+}
+
+.body-content{
+
+    background-color: black;
+    height: 1820px;
+    padding-top: 65px;
+}
+
+.body-content h2{
+
+    color: white;
+    text-align: center;
+    margin-bottom: 65px;
+    font-weight: lighter;
+    
+}
+
+.body-content {
+
+    font-size: 14px;
+}
+
+.paragraphs-content {
+
+    color: white;
+    margin: 0 auto;
+    margin-bottom: 65px;
+}
+
+.rectangle {
+
+    background-color: aqua;
+    text-align: center;
+    
+}
+
+.destacadosSection {
+   
+    margin-bottom: 100px;
+    
+}
+
+.card {
+
+    height: 300px;
+}
+
+.card img {
+
+    height: 150px;
+}
+
+.bg-cards {
+
+    background-color: aqua;
+    width: 300px;
+}
+
+
+.card-text {
+
+    color: black;
+   
+}
+
+.card-title {
+
+    color: white;
+}
+
+.row-cards {
+
+    margin: auto 0;
+}
+
+.form-label {
+
+    color: white;
+}
+
+.input-message {
+
+    height: 150px;
+}
+
+.sendButtonColor {
+
+    background-color: aqua;
+}
+
+
+footer {
+
+    color: white;
+    margin-top: 65px;
+}
+
+.body-footer{
+
+    background-color: aqua;
+    height: 80px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 18px;
+}
+
+.body-footer h3 {
+
+
+    font-size: 18px;
+}
+
 
