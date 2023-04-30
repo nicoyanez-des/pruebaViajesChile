@@ -42,7 +42,7 @@ nav{
 .body-content{
 
     background-color: black;
-    height: 1820px;
+    height: auto;
     padding-top: 65px;
 }
 
@@ -148,6 +148,11 @@ footer {
 
 
     font-size: 18px;
+}
+
+.body-footer a {
+
+    color: white;
 }
 
 
